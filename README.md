@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him.
 
 
-### Languages and Tools:pencil2::
+# Languages and Tools:pencil2::
 
 <code><img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"></code>
@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 
-### Connect with me:
+# Connect with me:
 
 
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/)
