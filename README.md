@@ -4,10 +4,10 @@
 
 
 ### Some more about me
-- 🔭 I’m currently working on [blogs site](https://github.com/sharathguvvala/Blogs)
+- 🔭 I’m currently working on [blogs site](https://github.com/sharathguvvala/Blogs).
 - 🌱 I’m currently learning backend developement.
 - 👯 I’m looking to collaborate on Project's and Hackathon's.
-- 🤔 I’m looking for help with Starting of Machine Learning.
+- 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about **Node.js, CSS, HTML, JavaScript.**
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/).
 - 😄 Pronouns: He/Him.
