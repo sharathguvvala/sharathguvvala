@@ -14,7 +14,7 @@
 
 
 # Github Activity📊:
-<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=30D5C8&bg_color=191919">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
