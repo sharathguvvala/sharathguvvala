@@ -17,6 +17,7 @@
 
 <code><a href="https://nodejs.org/en/" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"></a></code>
+<code><img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=currentColor"></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img src="https://icongr.am/devicon/mongodb-original.svg?size=40&color=currentColor"></a></code>
 <code><img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"></code>
