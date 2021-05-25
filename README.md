@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <h1 align="center">Hola!👋, I am Sharath Kumar Reddy Guvvala.</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathguvvala" alt="Sharath Kumar Reddy Guvvala" /> </p>
