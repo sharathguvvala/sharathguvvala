@@ -1,4 +1,4 @@
-<h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
+<h1 align="center">Hola!👋, I am Sharath Kumar Reddy Guvvala.</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathguvvala" alt="Sharath Kumar Reddy Guvvala" /> </p>
 
