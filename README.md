@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Project's and Hackathon's.
 - 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about **Node.js, CSS, HTML, JavaScript.**
-- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/).
+- 📫 Reach me at: **guvvalasharath@gmail.com**
 - 😄 Pronouns: He/Him.
 
 
@@ -18,3 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 
+### Connect with me:
+
+[<img align="left" alt="Sharath Kumar Reddy Guvvala | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/)
+[<img align="left" alt="Sharath Kumar Reddy Guvvala | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/sharath_g/)
