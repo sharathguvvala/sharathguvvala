@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-</head>
 <h1 align="center">Hola!👋, I am Sharath Kumar Reddy Guvvala.</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathguvvala" alt="Sharath Kumar Reddy Guvvala" /> </p>
@@ -16,8 +13,7 @@
 - 😄 Pronouns: He/Him.
 
 ### Languages and Tools:
-<p><i class="devicon-html5-plain-wordmark colored"></i><p>
-
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
 # Github Activity📊:
 <img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
