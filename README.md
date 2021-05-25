@@ -15,13 +15,13 @@
 
 ### Languages and Tools:
 
-<img src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor">
-<img src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor">
+[<img src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor" alt="HTML"/>]
+[<img src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor" alt="CSS"/>]
+<img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="JavaScript">
+<img src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" alt="GIT">
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor" alt="Node.js">
+<img src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor" alt="MongoDB">
+<img src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor" alt="Python">
 
 
 # Github Activity📊:
