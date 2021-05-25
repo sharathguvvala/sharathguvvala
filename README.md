@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/Him.
 
 ### Languages and Tools:
-<i class="devicon-html5-plain-wordmark colored"></i>
+<p><i class="devicon-html5-plain-wordmark colored"></i><p>
 
 # Github Activity📊:
 <img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
