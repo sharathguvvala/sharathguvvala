@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him.
 
 ### Languages and Tools:
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=60&color=currentColor">
 # Github Activity📊:
 <img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
