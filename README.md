@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor" alt="HTML"/>]
+<code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
 [<img src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor" alt="CSS"/>]
 <img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="JavaScript">
 <img src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" alt="GIT">
