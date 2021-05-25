@@ -1,10 +1,9 @@
-<div style="text-align:center;">Hola! 👋, I am Sharath Kumar Reddy Guvvala</div> 
-A Web Developer and a Machine Learning Enthusiast.
-<!--
-**sharathguvvala/sharathguvvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola!👋, I am Rahul Gowlapalli.</h1>
+<h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathguvvala" alt="Sharath Kumar Reddy Guvvala" /> </p>
 
-Here are some ideas to get you started:
--->
+
+### Some more about me
 - 🔭 I’m currently working on [blogs site](https://github.com/sharathguvvala/Blogs)
 - 🌱 I’m currently learning backend developement.
 - 👯 I’m looking to collaborate on Project's and Hackathon's.
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIN](www.linkedin.com/in/sharath-kumar-reddy-871ba0204)
 - 😄 Pronouns: He/Him.
 
+
+# Github Activity📊:
+<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
