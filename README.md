@@ -15,8 +15,8 @@
 
 ### Languages and Tools:
 
-<code><img height="35" src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor"></code>
-<code><img height="35" src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/css3-original.svg?size=60&color=currentColor"></code>
 <code><img height="35" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor"></code>
 <code><img height="35" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"></code>
 <code><img height="35" src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor"></code>
