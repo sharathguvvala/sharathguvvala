@@ -1,6 +1,6 @@
 # Hola! 👋, I am Sharath Kumar Reddy Guvvala
 *****
-### ->A Web Developer and a Machine Learning Enthusiast.<- 
+->A Web Developer and a Machine Learning Enthusiast.<- 
 <!--
 **sharathguvvala/sharathguvvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
