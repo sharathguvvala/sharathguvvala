@@ -12,6 +12,7 @@
 - 📫 Reach me at: **guvvalasharath@gmail.com**
 - 😄 Pronouns: He/Him.
 
+### Languages and Tools
 
 # Github Activity📊:
 <img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
