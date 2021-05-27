@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathguvvala" alt="Sharath Kumar Reddy Guvvala" /> </p>
 
 
-### Some more about me
+### Some more about m
 - 🔭 I’m currently working on [blogs site](https://github.com/sharathguvvala/Blogs).
 - 🌱 I’m currently learning backend developement.
 - 👯 I’m looking to collaborate on Project's and Hackathon's.
