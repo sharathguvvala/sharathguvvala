@@ -27,10 +27,9 @@
 
 # Github Activity📊:
 
-| !<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
-| !<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> |
-| --- | --- |
-| !<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> |
+<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> 
 
 
 # Connect with me:man_technologist::
@@ -38,3 +37,8 @@
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/)
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/sharathguvvala/)
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | Twitter" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />](https://twitter.com/Sharathguvvala)
+
+
+| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience) |
+| --- | --- |
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
