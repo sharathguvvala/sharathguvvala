@@ -41,4 +41,4 @@
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) |
