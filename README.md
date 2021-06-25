@@ -4,7 +4,7 @@
 
 
 ### Some more about me
-- 🔭 I’m currently working on [social media website](https://github.com/sharathguvvala/Interventus).
+- 🔭 I’m currently working on [social media web application](https://github.com/sharathguvvala/Interventus).
 - 🌱 I’m currently learning backend developement.
 - 👯 I’m looking to collaborate on Project's and Hackathon's.
 - 🤔 I’m looking for help with Machine Learning.
