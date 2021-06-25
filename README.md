@@ -34,7 +34,7 @@
 
 # Connect with me:man_technologist::
 
-[<img align="left" alt="Sharath Kumar Reddy Guvvala | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/sharath-kumar-reddy-871ba0204/)
+[<img align="left" alt="Sharath Kumar Reddy Guvvala | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/sharath-guvvala-871ba0204/)
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/sharathguvvala/)
 [<img align="left" alt="Sharath Kumar Reddy Guvvala | Twitter" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />](https://twitter.com/Sharathguvvala)
 
