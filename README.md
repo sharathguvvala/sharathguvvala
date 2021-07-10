@@ -27,7 +27,7 @@
 
 # Github Activity📊:
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-badugula&&show_icons=true&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> 
 
